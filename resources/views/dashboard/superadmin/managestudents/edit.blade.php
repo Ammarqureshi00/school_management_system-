@@ -32,7 +32,6 @@
                               width="100">
                   </div>
                   @endif
-
                   <div class="d-flex justify-content-between">
                         <a href="{{ route('superadmin.students.index') }}" class="btn btn-secondary">
                               <i class="fas fa-arrow-left"></i> Back
